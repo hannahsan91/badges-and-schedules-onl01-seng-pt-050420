@@ -19,7 +19,6 @@ def assign_rooms(speakers)
   end
   room_assignments
 end
-end
 
 def printer(attendees)
   room_assignments = []
