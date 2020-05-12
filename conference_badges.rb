@@ -23,3 +23,4 @@ puts room_assignments
                             "Hello, Matz! You'll be assigned to room 7!"
                          ]}
 end
+end
