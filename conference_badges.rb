@@ -12,7 +12,7 @@ puts conference_badges
                   "Hello, my name is Linus.",
                   "Hello, my name is Matz."
                ]}
-puts room_assignments
+print room_assignments
   let(:room_assignments) {[
                             "Hello, Edsger! You'll be assigned to room 1!",
                             "Hello, Ada! You'll be assigned to room 2!",
