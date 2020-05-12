@@ -1,5 +1,5 @@
 describe 'conference_badges' do
-
+puts conference_badges
   let(:name) {"Arel"}
   let(:attendees) {["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]}
   let(:badges) {[
@@ -11,7 +11,7 @@ describe 'conference_badges' do
                   "Hello, my name is Linus.",
                   "Hello, my name is Matz."
                ]}
-
+puts room_assignments
   let(:room_assignments) {[
                             "Hello, Edsger! You'll be assigned to room 1!",
                             "Hello, Ada! You'll be assigned to room 2!",
