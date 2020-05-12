@@ -21,3 +21,4 @@ describe 'conference_badges' do
                             "Hello, Linus! You'll be assigned to room 6!",
                             "Hello, Matz! You'll be assigned to room 7!"
                          ]}
+end
