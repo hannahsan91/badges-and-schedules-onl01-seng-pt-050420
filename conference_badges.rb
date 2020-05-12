@@ -1,3 +1,4 @@
+def assign_rooms
 describe 'conference_badges' do
 puts conference_badges
   let(:name) {"Arel"}
