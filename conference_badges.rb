@@ -15,3 +15,5 @@ puts "Hello, my name is Grace"
 
 badge_maker(Linus)
 puts "Hello, my name is Linus"
+
+def batch_badge_creator
